@@ -1,5 +1,3 @@
-# 020_Valid_Parentheses.md
-
 # 20. Valid Parentheses
 
 ## Problem Statement
